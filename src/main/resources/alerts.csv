@@ -1,0 +1,5 @@
+type;id;description;affectedHost;detectedAt;criticalHost;detail;flag1;flag2
+BRUTE_FORCE;ALT-001;Tentatives SSH suspectes;serveur-production;2026-11-15T08:30:00;true;60;true;false
+MALWARE;ALT-002;Malware détecté;poste-comptabilite;2026-11-15T09:00:00;true;DemoTrojan;false;false
+PHISHING;ALT-003;Message demandant une vérification du compte;poste-direction;2026-11-15T09:15:00;true;support@example.com;true;true
+BRUTE_FORCE;ALT-004;Échecs de connexion répétés;poste-accueil;2026-11-15T10:00:00;false;8;false;false

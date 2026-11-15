@@ -1,0 +1,2 @@
+type;id;description;affectedHost;detectedAt;criticalHost;detail;flag1;flag2
+BRUTE_FORCE;ALT-TEST;Tentatives SSH;serveur-test;2026-11-15T10:00:00;oui;60;true;false
